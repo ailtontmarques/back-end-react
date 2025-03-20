@@ -4,7 +4,7 @@ Projeto inicial com TDD utilizando React + Jest | Simple example React + Jest + 
 
 ## Para a instalação
 
-1. clone o repositório `https://github.com/ailtontmarques/back-end-react.git`
+1. clone o repositório `https://github.com/ailtontmarques/back-end-react.git` e altere a branch para Master
 2. Entre no projeto e instale as dependencias `npm install`
 
 ## Ambiente Local
